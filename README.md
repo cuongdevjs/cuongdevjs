@@ -2,13 +2,18 @@
 <h3 align="center">A passionate JavaScript developer from VietNam :)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cuongdevjs" alt="cuongdevjs" /> </p>
 
+<h3> 👨🏻‍💻 About Me </h3>
+
 - 🔭 I’m currently working on **MobiFone Meeting**
-
 - 💬 Ask me about **ReactJS, VueJS, NodeJS and about JavaScript**
-
 - 📫 How to reach me **nguyenmanhcuong.stf@gmail.com**
 
+<br/>
 
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cuongdevjs&show_icons=true)](https://github.com/cuongdevjs)
+
+<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 - <a href="https://codepen.io/cuongjorkee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="cuongjorkee" height="20" width="20" /></a>
