@@ -13,11 +13,6 @@
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cuongdevjs&show_icons=true)](https://github.com/cuongdevjs)
 
-### Stats
-
-![](https://github.com/cuongdevjs/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/cuongdevjs/github-stats/blob/master/generated/languages.svg)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
