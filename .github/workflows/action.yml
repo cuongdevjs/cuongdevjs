@@ -15,9 +15,9 @@ jobs:
     - name: Generate the user stats image
       uses: cicirello/user-statistician@v1
       with:
-        colors: dark-dimmed
-        custom-title: My GitHub Statistics
-        hide-keys: joined, mostStarred, mostForked, followers, following, private
+        colors: light
+        custom-title: Nguyen Manh Cuong
+        # hide-keys: joined, mostStarred, mostForked, followers, following, private
         max-languages: 100
         animated-language-chart: true
       env:
