@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Cuong Leo</h1>
+<h1 align="center">Hi 👋, I'm Leo Nguyen</h1>
 <h3 align="center">A passionate JavaScript developer from VietNam :)</h3>
-<h5 align="center">Currently, I'm developing Panoee - a FREE 360 virtual tour builder software</h3>
+<h5 align="center">Currently, I'm working on GrapeSeed Ecosystem</h3>
 
 
 ![](https://komarev.com/ghpvc/?username=cuongdevjs&color=brightgreen)
@@ -17,10 +17,10 @@
 ![l](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ###  👨🏻‍💻 About Me 
-- 🔭 I’m currently working on **Panoee - Platform For Virtual Tour 360 Free**
-- 💬 More info about my product: https://panoee.com
+- 🔭 I’m currently working on **GrapeSeed Ecosystem**
+- 💬 
 - 💬 Ask me about **ReactJS, VueJS, NodeJS and about JavaScript**
-- 📫 How to reach me **nguyenmanhcuong.stf@gmail.com**
+- 📫 How to reach me **leo.nguyen@grapeseed.com**
 
  <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
 <hr>
