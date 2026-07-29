@@ -18,7 +18,6 @@
 
 ###  👨🏻‍💻 About Me 
 - 🔭 I’m currently working on **GrapeSeed Ecosystem**
-- 💬 
 - 💬 Ask me about **ReactJS, VueJS, NodeJS and about JavaScript**
 - 📫 How to reach me **leo.nguyen@grapeseed.com**
 
